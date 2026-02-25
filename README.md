@@ -2,7 +2,7 @@
 
 **Flow-Anchor Poisoning: Clean-Label Backdoors in Flow-Matching Diffusion Transformers**
 
-&gt; Research project investigating data poisoning vulnerabilities in next-generation DiT architectures (FLUX.1, Stable Diffusion 3)
+> Research project investigating data poisoning vulnerabilities in next-generation DiT architectures (FLUX.1, Stable Diffusion 3)
 
 ## Overview
 
